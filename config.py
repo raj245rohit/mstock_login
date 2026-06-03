@@ -7,7 +7,7 @@ LOGIN = {
     "user_id": "MA151286",
     "password": "miRae@RAJ@1",
     "api_key": "YOxNrBM6UjMzlS1vfFY21445UH9KKAjYPWskklDWSaQ=",
-    "totp_secret": "Q23J6UHKYYUJD7ONBCYKQQN5R6TYLNSM"
+    "totp_secret": "HXEDQ7V4YIFKDQYQWO5CATMICP2XDA64"
 }
 
 TELEGRAM = {
